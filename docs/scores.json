@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T08:52:57.207695+00:00",
+  "generated_at": "2026-04-22T10:12:48.129825+00:00",
   "points_config": {
     "exercises": {
       "ex01": {
@@ -124,7 +124,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-22T08:52:57.207442+00:00",
+      "last_updated": "2026-04-22T10:12:48.129509+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -256,7 +256,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-22T08:52:57.186061+00:00",
+      "last_updated": "2026-04-22T10:12:48.090884+00:00",
       "status": "ok",
       "total_xp": 0,
       "breakdown": [
