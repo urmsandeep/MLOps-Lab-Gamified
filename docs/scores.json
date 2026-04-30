@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T11:01:19.893599+00:00",
+  "generated_at": "2026-04-30T11:23:50.879094+00:00",
   "points_config": {
     "exercises": {
       "ex01": {
@@ -77,7 +77,7 @@
   },
   "leaderboard": [
     {
-      "username": "Adithya-Vipin",
+      "username": "batulhs",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -124,17 +124,19 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.880904+00:00",
+      "last_updated": "2026-04-30T11:23:50.878193+00:00",
       "status": "ok",
-      "total_xp": 10,
+      "total_xp": 12,
       "breakdown": [
         {
           "exercise": "ex01",
           "name": "Baseline Model",
           "emoji": "\ud83c\udfaf",
           "passed": true,
-          "xp": 10,
-          "bonuses": [],
+          "xp": 12,
+          "bonuses": [
+            "\u2728 Flawless +2"
+          ],
           "message": "Model trained. RMSE=3.21, R\u00b2=0.895"
         },
         {
@@ -213,7 +215,7 @@
       "rank": 1
     },
     {
-      "username": "Akif-ka",
+      "username": "Adithya-Vipin",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -260,7 +262,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.228536+00:00",
+      "last_updated": "2026-04-30T11:23:49.356752+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -349,7 +351,7 @@
       "rank": 2
     },
     {
-      "username": "akshay-820",
+      "username": "Akif-ka",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -396,7 +398,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.223993+00:00",
+      "last_updated": "2026-04-30T11:23:49.610279+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -485,7 +487,7 @@
       "rank": 3
     },
     {
-      "username": "BKSHEERAJ",
+      "username": "akshay-820",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -532,7 +534,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.926910+00:00",
+      "last_updated": "2026-04-30T11:23:49.694325+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -621,7 +623,7 @@
       "rank": 4
     },
     {
-      "username": "chethanataltaje",
+      "username": "BKSHEERAJ",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -668,7 +670,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:19.892719+00:00",
+      "last_updated": "2026-04-30T11:23:48.835098+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -757,7 +759,7 @@
       "rank": 5
     },
     {
-      "username": "urmsandeep",
+      "username": "chethanataltaje",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -804,7 +806,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.890418+00:00",
+      "last_updated": "2026-04-30T11:23:50.821975+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -893,7 +895,7 @@
       "rank": 6
     },
     {
-      "username": "urmsandeep-test-01",
+      "username": "urmsandeep",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -940,7 +942,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.208453+00:00",
+      "last_updated": "2026-04-30T11:23:48.977205+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1029,7 +1031,7 @@
       "rank": 7
     },
     {
-      "username": "Vishnureddy910",
+      "username": "urmsandeep-test-01",
       "exercises": {
         "ex01": {
           "passed": true,
@@ -1076,7 +1078,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.206078+00:00",
+      "last_updated": "2026-04-30T11:23:49.707574+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1165,11 +1167,15 @@
       "rank": 8
     },
     {
-      "username": "afrinmtp",
+      "username": "Vishnureddy910",
       "exercises": {
         "ex01": {
-          "passed": false,
-          "message": "No model.pkl or model.joblib found in exercises/ex01/"
+          "passed": true,
+          "message": "Model trained. RMSE=3.21, R\u00b2=0.895",
+          "metrics": {
+            "rmse": 3.21,
+            "r2": 0.895
+          }
         },
         "ex02": {
           "passed": false,
@@ -1208,17 +1214,18 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.767444+00:00",
+      "last_updated": "2026-04-30T11:23:49.735054+00:00",
       "status": "ok",
-      "total_xp": 0,
+      "total_xp": 10,
       "breakdown": [
         {
           "exercise": "ex01",
           "name": "Baseline Model",
           "emoji": "\ud83c\udfaf",
-          "passed": false,
-          "xp": 0,
-          "message": "No model.pkl or model.joblib found in exercises/ex01/"
+          "passed": true,
+          "xp": 10,
+          "bonuses": [],
+          "message": "Model trained. RMSE=3.21, R\u00b2=0.895"
         },
         {
           "exercise": "ex02",
@@ -1296,7 +1303,7 @@
       "rank": 9
     },
     {
-      "username": "amriththejas",
+      "username": "afrinmtp",
       "exercises": {
         "ex01": {
           "passed": false,
@@ -1339,7 +1346,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.819573+00:00",
+      "last_updated": "2026-04-30T11:23:49.592031+00:00",
       "status": "ok",
       "total_xp": 0,
       "breakdown": [
@@ -1427,16 +1434,7 @@
       "rank": 10
     },
     {
-      "username": "anuj-ipynb",
-      "total_xp": 0,
-      "exercises": {},
-      "status": "no_fork",
-      "last_updated": "2026-04-30T11:01:18.355933+00:00",
-      "breakdown": [],
-      "rank": 11
-    },
-    {
-      "username": "VIGHNESH002",
+      "username": "amriththejas",
       "exercises": {
         "ex01": {
           "passed": false,
@@ -1479,7 +1477,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-04-30T11:01:18.908523+00:00",
+      "last_updated": "2026-04-30T11:23:48.822335+00:00",
       "status": "ok",
       "total_xp": 0,
       "breakdown": [
@@ -1564,7 +1562,147 @@
           "message": "No grader for ex10 yet"
         }
       ],
+      "rank": 11
+    },
+    {
+      "username": "anuj-ipynb",
+      "total_xp": 0,
+      "exercises": {},
+      "status": "no_fork",
+      "last_updated": "2026-04-30T11:23:49.093190+00:00",
+      "breakdown": [],
       "rank": 12
+    },
+    {
+      "username": "VIGHNESH002",
+      "exercises": {
+        "ex01": {
+          "passed": false,
+          "message": "No model.pkl or model.joblib found in exercises/ex01/"
+        },
+        "ex02": {
+          "passed": false,
+          "message": "No grader for ex02 yet"
+        },
+        "ex03": {
+          "passed": false,
+          "message": "No grader for ex03 yet"
+        },
+        "ex04": {
+          "passed": false,
+          "message": "No grader for ex04 yet"
+        },
+        "ex05": {
+          "passed": false,
+          "message": "No grader for ex05 yet"
+        },
+        "ex06": {
+          "passed": false,
+          "message": "No grader for ex06 yet"
+        },
+        "ex07": {
+          "passed": false,
+          "message": "No grader for ex07 yet"
+        },
+        "ex08": {
+          "passed": false,
+          "message": "No grader for ex08 yet"
+        },
+        "ex09": {
+          "passed": false,
+          "message": "No grader for ex09 yet"
+        },
+        "ex10": {
+          "passed": false,
+          "message": "No grader for ex10 yet"
+        }
+      },
+      "last_updated": "2026-04-30T11:23:48.970533+00:00",
+      "status": "ok",
+      "total_xp": 0,
+      "breakdown": [
+        {
+          "exercise": "ex01",
+          "name": "Baseline Model",
+          "emoji": "\ud83c\udfaf",
+          "passed": false,
+          "xp": 0,
+          "message": "No model.pkl or model.joblib found in exercises/ex01/"
+        },
+        {
+          "exercise": "ex02",
+          "name": "Experiment Tracking",
+          "emoji": "\ud83d\udcca",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex02 yet"
+        },
+        {
+          "exercise": "ex03",
+          "name": "Multi-Metric Selection",
+          "emoji": "\u2696\ufe0f",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex03 yet"
+        },
+        {
+          "exercise": "ex04",
+          "name": "Docker Packaging",
+          "emoji": "\ud83d\udce6",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex04 yet"
+        },
+        {
+          "exercise": "ex05",
+          "name": "Hyperparameter Tuning",
+          "emoji": "\ud83c\udf9b\ufe0f",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex05 yet"
+        },
+        {
+          "exercise": "ex06",
+          "name": "FastAPI Serving",
+          "emoji": "\ud83d\ude80",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex06 yet"
+        },
+        {
+          "exercise": "ex07",
+          "name": "Logging & Monitoring",
+          "emoji": "\ud83d\udc41\ufe0f",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex07 yet"
+        },
+        {
+          "exercise": "ex08",
+          "name": "Model Versioning",
+          "emoji": "\ud83c\udff7\ufe0f",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex08 yet"
+        },
+        {
+          "exercise": "ex09",
+          "name": "Retraining Pipeline",
+          "emoji": "\ud83d\udd01",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex09 yet"
+        },
+        {
+          "exercise": "ex10",
+          "name": "End-to-End Pipeline",
+          "emoji": "\ud83c\udfc6",
+          "passed": false,
+          "xp": 0,
+          "message": "No grader for ex10 yet"
+        }
+      ],
+      "rank": 13
     }
   ]
 }
