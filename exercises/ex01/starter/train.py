@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 import numpy as np
-
+from sklearn.ensemble import RandomForestRegressor
 
 def main() -> None:
     # 1. Load the training data
@@ -29,7 +29,7 @@ def main() -> None:
 
     # 4. Train a baseline model
     # TODO: Try different models here! LinearRegression, DecisionTreeRegressor, RandomForestRegressor, etc.
-    model = LinearRegression()
+    model = RandomForestRegressor(n_estimators=100, random_state=42)
     model.fit(X_train, y_train)
 
     # 5. Check your local validation RMSE
@@ -47,3 +47,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
