@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:59:08.546429+00:00",
+  "generated_at": "2026-08-21T20:33:37.544581+00:00",
   "points_config": {
     "exercises": {
       "ex01": {
@@ -124,7 +124,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:06.442807+00:00",
+      "last_updated": "2026-08-21T20:33:34.660089+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -260,7 +260,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:05.807374+00:00",
+      "last_updated": "2026-08-21T20:33:35.135211+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -396,7 +396,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:05.837731+00:00",
+      "last_updated": "2026-08-21T20:33:34.889163+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -532,7 +532,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:08.210440+00:00",
+      "last_updated": "2026-08-21T20:33:36.724950+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -668,7 +668,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:05.882794+00:00",
+      "last_updated": "2026-08-21T20:33:35.220915+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -804,7 +804,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:07.872679+00:00",
+      "last_updated": "2026-08-21T20:33:36.830027+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -940,7 +940,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:08.545576+00:00",
+      "last_updated": "2026-08-21T20:33:37.543664+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1076,7 +1076,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:06.603624+00:00",
+      "last_updated": "2026-08-21T20:33:35.034973+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1212,7 +1212,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:06.651078+00:00",
+      "last_updated": "2026-08-21T20:33:35.190041+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1348,7 +1348,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:06.478695+00:00",
+      "last_updated": "2026-08-21T20:33:34.042853+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1484,7 +1484,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:05.936747+00:00",
+      "last_updated": "2026-08-21T20:33:35.044215+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1620,7 +1620,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:06.604556+00:00",
+      "last_updated": "2026-08-21T20:33:35.298754+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1756,7 +1756,7 @@
           "message": "No grader for ex10 yet"
         }
       },
-      "last_updated": "2026-08-21T19:59:06.589715+00:00",
+      "last_updated": "2026-08-21T20:33:35.210740+00:00",
       "status": "ok",
       "total_xp": 10,
       "breakdown": [
@@ -1849,7 +1849,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-08-21T19:59:06.073679+00:00",
+      "last_updated": "2026-08-21T20:33:34.835963+00:00",
       "breakdown": [],
       "rank": 14
     },
@@ -1858,7 +1858,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-08-21T19:59:06.023489+00:00",
+      "last_updated": "2026-08-21T20:33:34.299701+00:00",
       "breakdown": [],
       "rank": 15
     },
@@ -1867,7 +1867,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-08-21T19:59:06.215067+00:00",
+      "last_updated": "2026-08-21T20:33:35.244945+00:00",
       "breakdown": [],
       "rank": 16
     },
@@ -1876,7 +1876,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-08-21T19:59:06.220183+00:00",
+      "last_updated": "2026-08-21T20:33:35.079389+00:00",
       "breakdown": [],
       "rank": 17
     },
@@ -1885,7 +1885,7 @@
       "total_xp": 0,
       "exercises": {},
       "status": "no_fork",
-      "last_updated": "2026-08-21T19:59:06.079506+00:00",
+      "last_updated": "2026-08-21T20:33:35.052193+00:00",
       "breakdown": [],
       "rank": 18
     }
